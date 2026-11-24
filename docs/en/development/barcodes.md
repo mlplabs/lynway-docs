@@ -1,5 +1,6 @@
 ## QR Code Protocol (Smart Payload)
-A unified format for generating labels on the server and parsing them via camera on Android:
+
+A unified format for generating labels on the server and parsing them via camera on Android:  
 * Item: `wms://itm/{id_or_code}`
 * Zone / Bin (Cell): `wms://cel/{code}`
 * Container / LPN: `wms://cnt/{code}`

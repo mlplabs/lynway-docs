@@ -1,0 +1,3 @@
+[Architect](architect.md)
+[Barcodes](barcodes.md)
+[Database table schema (PostgreSQL)](database.md)

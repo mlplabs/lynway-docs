@@ -1,0 +1,3 @@
+- [Архитектура](architect.md)
+- [Штрих-коды](barcodes.md)
+- [Схема таблиц базы данных (PostgreSQL)](database.md)

@@ -51,6 +51,7 @@ plugins:
           # Навигация для английской версии (смотрит в docs/en/)
           nav:
             - Home: index.md
+            - Development: development.md
             - About: about.md
             
         - locale: ru
@@ -60,6 +61,7 @@ plugins:
           # Навигация для русской версии (смотрит в docs/ru/)
           nav:
             - Главная: index.md
+            - Разработчикам: development.md
             - О проекте: about.md
 
 # Расширения для Markdown

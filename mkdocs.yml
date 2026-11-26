@@ -61,7 +61,7 @@ plugins:
           # Навигация для русской версии (смотрит в docs/ru/)
           nav:
             - Главная: index.md
-            - Разработчикам: development/index.md
+            - Разработка: development/index.md
             - О проекте: about.md
 
 # Расширения для Markdown

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.lynway.org/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/about/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/about/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/about/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/development/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/development/architect/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/architect/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/architect/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/development/barcodes/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/barcodes/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/barcodes/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/development/database/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/database/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/database/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/ru/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/ru/about/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/about/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/ru/development/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/ru/development/architect/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/architect/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/architect/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/ru/development/barcodes/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/barcodes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/barcodes/"/>
+    </url>
+    <url>
+        <loc>https://docs.lynway.org/ru/development/database/</loc>
+        <lastmod>2026-11-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://docs.lynway.org/ru/development/database/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.lynway.org/development/database/"/>
+    </url>
+</urlset>

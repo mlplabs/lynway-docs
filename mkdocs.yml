@@ -27,25 +27,14 @@ theme:
         icon: material/brightness-4
         name: Переключиться на светлую тему
 
-# Секция для мультиязычности
-extra:
-  alternate:
-    - name: Русский # Название в переключателе
-      link: /ru/      # Ссылка на русскую версию
-      lang: ru
-    - name: English # Название в переключателе
-      link: /en/      # Ссылка на английскую версию
-      lang: en       # Код языка
-    
+
 plugins:
   - search
   - i18n:
       docs_structure: folder # Переключаем плагин в режим папок
-      default_language: en
       languages: # ИСПРАВЛЕНО: теперь это список (с дефисами перед - locale)
         - locale: en
           name: English
-          link: /en/
           build: true
           default: true
           # Навигация для английской версии (смотрит в docs/en/)
@@ -56,7 +45,6 @@ plugins:
             
         - locale: ru
           name: Русский
-          link: /ru/
           build: true
           # Навигация для русской версии (смотрит в docs/ru/)
           nav:

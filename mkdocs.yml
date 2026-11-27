@@ -1,6 +1,6 @@
 site_url: https://docs.lynway.org
-site_name: Linway Docs
-site_description: 'Linway WMS project documentation'
+site_name: Lynway Docs
+site_description: 'Lynway WMS project documentation'
 
 # Настройка темы
 theme:
